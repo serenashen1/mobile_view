@@ -212,34 +212,7 @@ figcaption{
 
 @media (prefers-reduced-motion: reduce) {
   .animation {
-    animation: none; /* Turn off the animation */
+    animation: none;
   }
 }
 
-  
-/* .btn {
-  background: #0769e0;
-  background-image: -webkit-linear-gradient(top, #0769e0, #002e54);
-  background-image: -moz-linear-gradient(top, #0769e0, #002e54);
-  background-image: -ms-linear-gradient(top, #0769e0, #002e54);
-  background-image: -o-linear-gradient(top, #0769e0, #002e54);
-  background-image: linear-gradient(to bottom, #0769e0, #002e54);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Arial;
-  color: #fff596;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #4fa1ff;
-  background-image: -webkit-linear-gradient(top, #4fa1ff, #005896);
-  background-image: -moz-linear-gradient(top, #4fa1ff, #005896);
-  background-image: -ms-linear-gradient(top, #4fa1ff, #005896);
-  background-image: -o-linear-gradient(top, #4fa1ff, #005896);
-  background-image: linear-gradient(to bottom, #4fa1ff, #005896);
-  text-decoration: none;
-} */
